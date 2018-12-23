@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-import-phpbb",
   "version": "0.0.2",
-  "description": "A phpBB3.2.x to NodeBB data exporter",
+  "description": "A phpBB3.2 to NodeBB data exporter",
   "main": "./index.js",
   "scripts": {
     "build": "babel src --out-dir=build --source-maps=inline",
@@ -29,14 +29,6 @@
       "email": "jakub@skorepa.info"
     }
   ],
-  "contributors": [
-    {
-      "name": "RoPP",
-    },
-    {
-      "name": "TheWorms",
-    }
-  ],  
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheWorms/nodebb-plugin-import-phpbb/issues"
