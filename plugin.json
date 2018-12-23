@@ -1,7 +1,7 @@
 {
     	"id": "nodebb-plugin-import-phpbb",
     	"name": "nodebb-plugin-import-phpbb",
-    	"description": "A phpBB 3.2.x to NodeBB data exporter compatible with nodebb-plugin-import",
+    	"description": "A phpBB2 to NodeBB data exporter compatible with nodebb-plugin-import",
     	"url": "https://github.com/TheWorms/nodebb-plugin-import-phpbb",
 	"library": "./admin/index.js",
 	"hooks": [

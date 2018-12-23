@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheWorms/nodebb-plugin-import-phpbb/issues"
+    "url": "https://github.com/RoPP/nodebb-plugin-import-phpbb/issues"
   },
   "babel": {
     "presets": [
