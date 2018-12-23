@@ -1,14 +1,14 @@
 {
   "name": "nodebb-plugin-import-phpbb",
-  "version": "0.1.5",
-  "description": "A phpBB2 to NodeBB data exporter",
+  "version": "0.0.1",
+  "description": "A phpBB3.2.x to NodeBB data exporter",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-import-phpbb"
+    "url": "https://github.com/TheWorms/nodebb-plugin-import-phpbb"
   },
   "keywords": [
     "phpbb",
@@ -22,9 +22,13 @@
     "name": "psychobunny",
     "email": "psycho.bunny@hotmail.com"
   },
+  "contributor": {
+    "name": "TheWorms",
+    "email": "theworms@protonmail.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-import-phpbb/issues"
+    "url": "https://github.com/TheWorms/nodebb-plugin-import-phpbb/issues"
   },
   "nbbpm": {
     "index": false
